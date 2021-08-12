@@ -15,3 +15,5 @@ The examples folder contain the Google Colab Notebook examples written for the a
 - FID/IS Example - https://colab.research.google.com/drive/1bMmIbS13y3UCpkl0BwaNiQISXGV5pbxL?usp=sharing
 - PPL Example - https://colab.research.google.com/drive/1uqGmxMiEO7iDorrsZd7ccQfwMoGsqmoZ?usp=sharing
 - mAP Example - https://colab.research.google.com/drive/1SdcNZ57OWPuo_XhNsipIMgFu9o5P51ga?usp=sharing
+
+Note: Further work is being done on PPL Example, mAP PR and mAP Example. This work will be done in the same PR/ Notebook shared here.
